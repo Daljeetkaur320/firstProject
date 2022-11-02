@@ -16,7 +16,8 @@ public class ControlSt {
         }
     }
 
-    public static void greatestOf3(int a, int b, int c) {git
+    public static void greatestOf3(int a, int b, int c) {
+
 
 
 
@@ -30,7 +31,7 @@ public class ControlSt {
     }
 
 
-gf
+
     public static void main3(String[] args) {
         for(int i= 10; i<= 17; i++){
             System.out.println("i");
