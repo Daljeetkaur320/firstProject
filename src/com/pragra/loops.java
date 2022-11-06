@@ -38,8 +38,9 @@ public class loops {
              guessedNo = sc.nextInt();
         } while (thoughtNo!=guessedNo);
         System.out.println("you win , guessed right ");
+        System.out.println("This is vivek");
         }
-         System.out.println("This is vivvek");
+
     }
 
 
