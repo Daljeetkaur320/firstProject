@@ -37,7 +37,7 @@ public class Calculator {
     public static double divide(double x, double y) {
         return x / y;
     }
-System.out.println("vivkek changes");
+
 
 
 }
